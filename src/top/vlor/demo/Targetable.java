@@ -1,0 +1,6 @@
+package top.vlor.demo;
+
+public interface Targetable {
+    public void method1();
+    public void method2();
+}

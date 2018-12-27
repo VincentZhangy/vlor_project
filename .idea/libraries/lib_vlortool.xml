@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib_vlortool">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../vlor_top/web/WEB-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../vlor_top/web/WEB-INF/lib" recursive="false" />
+  </library>
+</component>

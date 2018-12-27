@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaApiDemo.iml" filepath="$PROJECT_DIR$/JavaApiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vlor-tool/vlor-tool.iml" filepath="$PROJECT_DIR$/../vlor-tool/vlor-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vlor.github.io/vlor.github.io.iml" filepath="$PROJECT_DIR$/../vlor.github.io/vlor.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vlor_top/vlor_top.iml" filepath="$PROJECT_DIR$/../vlor_top/vlor_top.iml" />
+    </modules>
+  </component>
+</project>

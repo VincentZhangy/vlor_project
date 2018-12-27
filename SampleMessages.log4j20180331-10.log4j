@@ -1,0 +1,60 @@
+<log4j:event logger="org.junit.jupiter.api.Test" timestamp="1522462700257" level="INFO" thread="main">
+<log4j:message><![CDATA[开始吃兰州拉面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.junit.jupiter.api.Test" timestamp="1522462700261" level="INFO" thread="main">
+<log4j:message><![CDATA[加班，开始吃泡面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.junit.jupiter.api.Test" timestamp="1522462700261" level="INFO" thread="main">
+<log4j:message><![CDATA[开始吃家乡米面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.junit.jupiter.api.Test" timestamp="1522462847819" level="INFO" thread="main">
+<log4j:message><![CDATA[开始吃兰州拉面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.junit.jupiter.api.Test" timestamp="1522462847821" level="INFO" thread="main">
+<log4j:message><![CDATA[加班，开始吃泡面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.junit.jupiter.api.Test" timestamp="1522462847822" level="INFO" thread="main">
+<log4j:message><![CDATA[开始吃家乡米面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.factory.commonmt.IeatTest" timestamp="1522463982900" level="INFO" thread="main">
+<log4j:message><![CDATA[早上开始吃兰州拉面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.factory.commonmt.IeatTest" timestamp="1522463982903" level="INFO" thread="main">
+<log4j:message><![CDATA[中午吃泡面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.factory.commonmt.IeatTest" timestamp="1522463982903" level="INFO" thread="main">
+<log4j:message><![CDATA[晚上吃米面，怎么一天都在吃面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.factory.commonmt.IeatTest" timestamp="1522464183554" level="INFO" thread="main">
+<log4j:message><![CDATA[兰州拉面师傅已经准备好了]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.factory.commonmt.IeatTest" timestamp="1522464183557" level="INFO" thread="main">
+<log4j:message><![CDATA[早上开始吃兰州拉面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.factory.commonmt.IeatTest" timestamp="1522464183557" level="INFO" thread="main">
+<log4j:message><![CDATA[泡面师傅已经准备好了]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.factory.commonmt.IeatTest" timestamp="1522464183558" level="INFO" thread="main">
+<log4j:message><![CDATA[中午吃泡面]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.factory.commonmt.IeatTest" timestamp="1522464183558" level="INFO" thread="main">
+<log4j:message><![CDATA[米面师傅已经准备好了]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.factory.commonmt.IeatTest" timestamp="1522464183559" level="INFO" thread="main">
+<log4j:message><![CDATA[晚上吃米面，怎么一天都在吃面]]></log4j:message>
+</log4j:event>
+

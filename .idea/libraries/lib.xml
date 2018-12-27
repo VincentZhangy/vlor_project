@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/commons-collections4-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/html2image-master.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/zxing-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/xmlbeans-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/html2image-2.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/zxing-javase-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../vlor-tool/src/main/resources/lib/jxl-2.6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

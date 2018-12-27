@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <className>top.vlor.commandmode.HelpCommand</className>
+    <className>top.vlor.commandmode.MinimizeCommand</className>
+</config>

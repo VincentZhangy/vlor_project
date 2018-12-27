@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaApiDemo:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaApiDemo_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JavaApiDemo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaApiDemo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="JUnit5.0" module-name="JavaApiDemo" />
+          <element id="library" level="project" name="sep4j" />
+          <element id="library" level="project" name="lib_vlortool" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

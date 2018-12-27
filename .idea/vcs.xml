@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="svn" />
+    <mapping directory="D:/GitRepository" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vlor-tool" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../vlor.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vlor_top" vcs="svn" />
+  </component>
+</project>

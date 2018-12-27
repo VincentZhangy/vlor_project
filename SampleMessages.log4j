@@ -1,0 +1,44 @@
+<log4j:event logger="top.vlor.facade.Computer" timestamp="1525318180762" level="INFO" thread="main">
+<log4j:message><![CDATA[Computer is start begin ...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.children.CPU" timestamp="1525318180768" level="INFO" thread="main">
+<log4j:message><![CDATA[CPU is start...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.children.Disk" timestamp="1525318180768" level="INFO" thread="main">
+<log4j:message><![CDATA[Disk is start...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.children.Memory" timestamp="1525318180768" level="INFO" thread="main">
+<log4j:message><![CDATA[Memory is start...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.Computer" timestamp="1525318180769" level="INFO" thread="main">
+<log4j:message><![CDATA[Computer is start end ...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.Client" timestamp="1525318180769" level="INFO" thread="main">
+<log4j:message><![CDATA[============================]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.Computer" timestamp="1525318180769" level="INFO" thread="main">
+<log4j:message><![CDATA[Computer is shotDown begin ...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.children.CPU" timestamp="1525318180769" level="INFO" thread="main">
+<log4j:message><![CDATA[CPU is shutdown...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.children.Disk" timestamp="1525318180769" level="INFO" thread="main">
+<log4j:message><![CDATA[Disk is shutdown...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.children.Memory" timestamp="1525318180769" level="INFO" thread="main">
+<log4j:message><![CDATA[Memory is shutdown...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="top.vlor.facade.Computer" timestamp="1525318180769" level="INFO" thread="main">
+<log4j:message><![CDATA[Computer is shotDown end ...]]></log4j:message>
+</log4j:event>
+
